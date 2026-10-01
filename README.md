@@ -4,7 +4,7 @@
 
 立方体型の3D空間内に1から5個の立体をランダムに生成します。光源、カメラの位置はランダムに変更可能です。
 
-<img src="images/README_1.png" width="325">
+![アプリ画面](images/README_1.png)
 
 ## 対象プラットフォーム
 
@@ -63,5 +63,8 @@ UnityのPerspectiveカメラです。
 
 生成される立体は15種で、それぞれ等確率で選ばれます。
 
+![アプリ画面](images/README_2.png)
+
 Arch, Capsule, Cone, Cube, Cylinder, Hexagon, Icosahedron, Octagon, Octahedron, Prism, Pyramid, Ramp, Sphere, Torus, Tube
+
 アーチ、カプセル、円錐、立方体、円柱、六角柱、正二十面体、八角柱、正八面体、角柱、角錐、スロープ、球、トーラス（円環）、チューブ（円筒）
